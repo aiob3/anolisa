@@ -13,4 +13,4 @@ crate-type = ["cdylib"]
 
 [dependencies]
 # PyO3: Rust bindings for Python
-pyo3 = { version = "0.20", features = ["extension-module"] }
+pyo3 = { version = "0.29", features = ["extension-module"] }
